@@ -1,0 +1,22 @@
+header {
+    background-color: #b93d4d;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+}
+
+#work_exp {
+    background-color: lightgray;
+}
+
+#skills {
+    padding-top: 7%;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-bottom: 7%;
+}
+
+#projects{
+    padding-left: 80px;
+    padding-right: 80px;
+}
